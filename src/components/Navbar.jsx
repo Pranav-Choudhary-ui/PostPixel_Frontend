@@ -21,7 +21,7 @@ const Navbar = () => {
           to="/feed"
           className="text-xl font-bold tracking-tight text-gray-800 hover:text-black transition"
         >
-          ImageShare
+          PostPixel
         </Link>
 
         {/* Buttons */}
